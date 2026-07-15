@@ -1,0 +1,6 @@
+pillow
+lxml
+win32api
+opencv-python
+mouse
+mss
